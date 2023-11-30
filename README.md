@@ -57,18 +57,8 @@ Based on the analysis, we recommend the following actions:
 
 ## References
 
-Github          Z                                        
+Github                                               
 Her data project youtube channel 
 
 
 
-|Heading1|Heading2|
-|--------|--------|
-|Content|Content2|
-|Python|SQL|
-
-`column_1`
-
-**bold**
-
-*italic*
