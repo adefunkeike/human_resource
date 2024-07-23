@@ -15,7 +15,7 @@ This dataset was gotten from  Irene-arch github account as csv file which was do
 - Power Bi - This was used for visualization of insight and to expansaite
 
 ## Data Cleaning
-  Initially the data cleaning steps was performed fron
+  Initially the data cleaning steps was performed from
   - Data Loading
   - Data Cleaning
   - Removal of Missing Values
