@@ -14,7 +14,8 @@ This dataset was gotten from  Irene-arch github account as csv file which was do
 - Sequel Sever - This was used to clean and analysis the dataset to extract insight
 - Power Bi - This was used for visualization of insight and to expansaite
 - Power Query
-  ![image](https://github.com/user-attachments/assets/5fa0bbe2-4bdb-4768-946b-ffa73e4426d7)
+![image](https://github.com/user-attachments/assets/61327319-0b11-4cd5-b530-17a89c12a448)
+
 
 
 ## Data Cleaning
