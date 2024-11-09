@@ -29,7 +29,7 @@ This dataset was gotten from  Irene-arch github account as csv file which was do
   3. What is the number of employees work phyiscally at the head quarter?
   4. Number of employees employed in the past year ?
   5. A trend of employement of staff ?
-  6.   asdftrdc
+  6 .   asdftrdc
      
 ## Data Analysis
 Include some interesting code/features worked with
